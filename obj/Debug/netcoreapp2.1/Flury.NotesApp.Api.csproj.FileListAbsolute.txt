@@ -1,0 +1,14 @@
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.csprojAssemblyReference.cache
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.csproj.CoreCompileInputs.cache
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.RazorAssemblyInfo.cache
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.RazorAssemblyInfo.cs
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.AssemblyInfoInputs.cache
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.AssemblyInfo.cs
+/home/damien/source/NotesApp/Flury.NotesApp.Api/bin/Debug/netcoreapp2.1/Flury.NotesApp.Api.deps.json
+/home/damien/source/NotesApp/Flury.NotesApp.Api/bin/Debug/netcoreapp2.1/Flury.NotesApp.Api.runtimeconfig.json
+/home/damien/source/NotesApp/Flury.NotesApp.Api/bin/Debug/netcoreapp2.1/Flury.NotesApp.Api.runtimeconfig.dev.json
+/home/damien/source/NotesApp/Flury.NotesApp.Api/bin/Debug/netcoreapp2.1/Flury.NotesApp.Api.dll
+/home/damien/source/NotesApp/Flury.NotesApp.Api/bin/Debug/netcoreapp2.1/Flury.NotesApp.Api.pdb
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.RazorTargetAssemblyInfo.cache
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.dll
+/home/damien/source/NotesApp/Flury.NotesApp.Api/obj/Debug/netcoreapp2.1/Flury.NotesApp.Api.pdb
